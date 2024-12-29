@@ -155,7 +155,7 @@ const AboutPage = () => {
   }, []);
 
   // Memoized stats data
-  const statsData = useMemo(() => [
+  //const statsData = useMemo(() => [
     {
       icon: Code,
       color: "from-[#6366f1] to-[#a855f7]",
@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                Yardan Shaquille Herlanda
               </span>
             </h2>
             
@@ -214,14 +214,14 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang siswa Teknik Jaringan Komputer dan Telekomunikasi yang
+              seorang siswa Teknik Elektro Otomasi yang
               tertarik dalam pengembangan Front-End. Saya berfokus pada
               menciptakan pengalaman digital yang menarik dan selalu berusaha
               memberikan solusi terbaik dalam setiap proyek.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
-              <a href="https://drive.google.com/drive/folders/1BOm51Grsabb3zj6Xk27K-iRwI1zITcpo" className="w-full">
+              <a href="https://google.com" className="w-full">
               <button 
                 data-aos="fade-up"
                 data-aos-duration="800"
