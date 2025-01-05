@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang siswa Teknik Elektro Otomasi yang
+              seorang mahasiswa Teknik Elektro Otomasi yang
               tertarik dalam pengembangan Front-End. Saya berfokus pada
               menciptakan pengalaman digital yang menarik dan selalu berusaha
               memberikan solusi terbaik dalam setiap proyek.
