@@ -50,7 +50,7 @@ const WelcomeScreen = ({ onLoadingComplete }) => {
 
   useEffect(() => {
     AOS.init({
-      duration: 1000,
+      duration: 1200,
       once: false,
       mirror: false,
     });
