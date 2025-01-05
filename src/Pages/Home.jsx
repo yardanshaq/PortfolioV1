@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback, memo } from "react"
-import { Github, Linkedin, Mail, ExternalLink, Instagram, Sparkles } from "lucide-react"
+import { Github, Linkedin, Mail, ExternalLink, Instagram, Sparkles, x } from "lucide-react"
 import { DotLottieReact } from '@lottiefiles/dotlottie-react'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -81,7 +81,7 @@ const WORDS = ["Automation Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/qwerkcar" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/yardanshaq/" },
+  { icon: X, link: "https://www.x.com/yardanshaq/" },
   { icon: Instagram, link: "https://www.instagram.com/yardanshaq/?hl=id" }
 ];
 
