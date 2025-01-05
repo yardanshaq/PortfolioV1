@@ -3,18 +3,19 @@ import {
   Linkedin,
   Github,
   Instagram,
+  Youtube,
   ExternalLink,
-  WhatsApp,
+  Spotify,
   X
 } from "lucide-react";
 
 const socialLinks = [
   {
-    name: "WhatsApp",
+    name: "X",
     displayName: "Let's Connect",
-    subText: "on WhatsApp",
-    icon: WhatsApp,
-    url: "https://wa.link/geja6c",
+    subText: "on X",
+    icon: X,
+    url: "https://www.X.com/yardanshaq/",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true
@@ -29,11 +30,11 @@ const socialLinks = [
     gradient: "from-[#833AB4] via-[#E4405F] to-[#FCAF45]"
   },
   {
-    name: "X",
-    displayName: "X",
-    subText: "@yardanshaq",
-    icon: WhatsApp,
-    url: "https://www.x.com/yardanshaq/",
+    name: "Spotify",
+    displayName: "Spotify",
+    subText: "Yardan Shaq",
+    icon: Spotify,
+    url: "https://open.spotify.com/user/313inkbkqmf2wueqagtu7v5zdn4y?si=8d9475589cf344ba",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]"
   },
@@ -42,7 +43,7 @@ const socialLinks = [
     displayName: "Github",
     subText: "@qwerkcar",
     icon: Github,
-    url: "https://github.com/qwerkcar/",
+    url: "https://github.com/qwerkcar",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]"
   },
