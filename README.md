@@ -1,6 +1,6 @@
 # Portofolio V5
 Halo semuanya!
-Perkenalkan, saya Eki Zulfar Rachman, dan pada kesempatan kali ini, saya ingin berbagi proyek website portofolio yang telah saya kembangkan.
+Perkenalkan, saya Yardan Shaquille Herlanda, dan pada kesempatan kali ini, saya ingin berbagi proyek website portofolio yang telah saya kembangkan.
 
 Tech Stack yang digunakan:
 - ReactJS
@@ -13,7 +13,7 @@ Tech Stack yang digunakan:
 - SweetAlert2
 
 Link Website:
-https://www.eki.my.id/
+https://www.yardansh.site/
 
 We would appreciate it if you would like to use this project, please include our credit in your use. Thank You! 🙏
 
@@ -32,7 +32,7 @@ Pastikan Anda sudah menginstal:
 1. **Download project ini:**
 
    ```bash
-   git clone https://github.com/EkiZR/Portofolio_V5.git
+   git clone https://github.com/qwerkcar/portfolio.git
    ```
 
 2. **Install semua kebutuhan:**
