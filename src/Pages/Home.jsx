@@ -82,7 +82,7 @@ const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/qwerkcar" },
   { icon: X, link: "https://www.x.com/yardanshaq/" },
-  { icon: Instagram, link: "https://www.instagram.com/yardanshaq/?hl=id" }
+  { icon: Instagram, link: "https://www.instagram.com/yardanshaq/" }
 ];
 
 const Home = () => {
