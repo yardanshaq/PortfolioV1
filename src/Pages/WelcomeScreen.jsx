@@ -149,7 +149,7 @@ const WelcomeScreen = ({ onLoadingComplete }) => {
                 className="text-center"
                 variants={childVariants}
                 data-aos="fade-up"
-                data-aos-delay="800"
+                data-aos-delay="400"
               >
                 <a
                   href="https://www.yardansh.site"
