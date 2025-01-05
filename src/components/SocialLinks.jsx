@@ -14,7 +14,7 @@ const socialLinks = [
     displayName: "Let's Connect",
     subText: "on LinkedIn",
     icon: X,
-    url: "https://www.x.com/yardanshaq",
+    url: "https://www.x.com/yardanshaq/",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true
@@ -42,7 +42,7 @@ const socialLinks = [
     displayName: "Github",
     subText: "@qwerkcar",
     icon: Github,
-    url: "https://github.com/qwerkcar",
+    url: "https://github.com/qwerkcar/",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]"
   },
