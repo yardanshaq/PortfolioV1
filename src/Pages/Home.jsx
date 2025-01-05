@@ -81,8 +81,8 @@ const WORDS = ["Automation Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/qwerkcar" },
-  { icon: LinkedIn, link: "https://www.linkedin.com/in/yardanshaq/" },
-  { icon: Instagram, link: "https://www.instagram.com/yardanshaq/" }
+  { icon: Linkedin, link: "https://www.linkedin.com/in/yardanshaq/" },
+  { icon: Instagram, link: "https://www.instagram.com/yardanshaq/?hl=id" }
 ];
 
 const Home = () => {
