@@ -31,11 +31,11 @@ const socialLinks = [
   },
   {
     name: "Facebook",
-    displayName: "facebook",
+    displayName: "Facebook",
     subText: "Yardan Shaquille",
     icon: Facebook,
     url: "https://www.facebook.com/yardanshaq",
-    color: "#FF0000",
+    color: "#0A66C2",
     gradient: "from-[#FF0000] to-[#CC0000]"
   },
   {
