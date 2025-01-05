@@ -5,7 +5,7 @@ import {
   Instagram,
   Youtube,
   ExternalLink,
-  X
+  Spotify
 } from "lucide-react";
 
 const socialLinks = [
