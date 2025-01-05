@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                Yardan Shaquille Herlanda
               </span>
             </h2>
             
@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang siswa Teknik Jaringan Komputer dan Telekomunikasi yang
+              seorang siswa Teknik Elektro Otomasi yang
               tertarik dalam pengembangan Front-End. Saya berfokus pada
               menciptakan pengalaman digital yang menarik dan selalu berusaha
               memberikan solusi terbaik dalam setiap proyek.
