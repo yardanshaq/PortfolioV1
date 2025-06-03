@@ -1,58 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
-  <title>404 page</title>
-  <link rel="stylesheet" href="bootstrap.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>404 Page Not Found</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"/>
   <style>
-    .page_404{
-      padding:40px 0;
-      background:#fff;
-      font-family: 'Arvo', serif;
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: #0d1117;
+      color: #c9d1d9;
     }
 
-    .page_404  img{ width:100%;}
+    .page_404 {
+      padding: 60px 0;
+    }
 
-    .four_zero_four_bg{
+    .four_zero_four_bg {
       background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
-      height: 400px;
+      height: 300px;
       background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
     }
-  
-    .four_zero_four_bg h1{font-size:80px;}
 
-    .four_zero_four_bg h3{ font-size:80px;}
-        
-    .link_404{			 
-      color: #fff!important;
-        padding: 10px 20px;
-        background: #39ac31;
-        margin: 20px 0;
-        display: inline-block;
+    .four_zero_four_bg h1 {
+      font-size: 100px;
+      font-weight: bold;
+      color: #f85149;
     }
-    .contant_box_404{ margin-top:-50px;}
+
+    .contant_box_404 {
+      margin-top: -20px;
+      text-align: center;
+    }
+
+    .contant_box_404 h3 {
+      font-size: 24px;
+      font-weight: 600;
+      color: #f0f6fc;
+    }
+
+    .contant_box_404 p {
+      font-size: 16px;
+      color: #8b949e;
+      margin-top: 10px;
+    }
+
+    .link_404 {
+      margin-top: 20px;
+      display: inline-block;
+      padding: 10px 25px;
+      background: #238636;
+      color: white !important;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+
+    .link_404:hover {
+      background: #2ea043;
+    }
   </style>
 </head>
-  <body>
-    <section class="page_404">
-      <div class="container">
-        <div class="row">	
-          <div class="col-sm-12 ">
-            <div class="col-sm-10 col-sm-offset-1  text-center">
-                <div class="four_zero_four_bg">
-                            <h1 class="text-center ">404</h1>
-                </div>       
-                <div class="contant_box_404">
-                            <h3 class="h2"> Look like you're lost </h3>     
-                            <p>the page you are looking for not avaible!</p>
-                            <a href="./" class="link_404">Go to Home</a>
-                </div>
-            </div>
-          </div>
-        </div>
+<body>
+  <section class="page_404">
+    <div class="container text-center">
+      <div class="four_zero_four_bg">
+        <h1>404</h1>
       </div>
-    </section>
-  </body>
+      <div class="contant_box_404">
+        <h3>Looks like you're lost</h3>
+        <p>The page you are looking for isn’t available</p>
+        <a href="./" class="link_404">Go to Home</a>
+      </div>
+    </div>
+  </section>
+</body>
 </html>
