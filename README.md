@@ -13,7 +13,7 @@ Tech Stack yang digunakan:
 - SweetAlert2
 
 Link Website:
-https://www.yardansh.site/
+https://www.yardansh.xyz/
 
 We would appreciate it if you would like to use this project, please include our credit in your use. Thank You! 🙏
 
@@ -32,7 +32,7 @@ Pastikan Anda sudah menginstal:
 1. **Download project ini:**
 
    ```bash
-   git clone https://github.com/qwerkcar/portfolio.git
+   git clone https://github.com/yardanshaq/portfolio.git
    ```
 
 2. **Install semua kebutuhan:**
